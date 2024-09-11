@@ -5,10 +5,12 @@
 
  Para realizar essa atividade, foram utilizadas as linguagem C++, como a liguagem de origem da DLL, Python como a linguagem para importar a DLL e o prompt de comando do Visual Studio para exportar em DLL.
 
+***
+
 ## Passo a passo
 1. **Programa em C++**  
     - Escreva um programa em C++ com uma ou mais funções que serão exportadas em DLL. A seguir, o código utilizado:
-    
+
     ```
     #include <windows.h>
 
