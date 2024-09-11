@@ -27,7 +27,7 @@
     ```
     cl /LD seu_arquivo.cpp /Fe:seu_arquivo.dll
     ```
-3 **Importar em Python**
+3. **Importar em Python**
     - Escreva um programa em python que importe as funções da DLL. Para o código em C++ anterior, foi utilizado o seguinte código Python:
     ```
     import ctypes
